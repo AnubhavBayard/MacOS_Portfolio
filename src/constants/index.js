@@ -102,15 +102,19 @@ const blogPosts = [
 const techStack = [
   {
     category: "Frontend",
-    items: ["React.js"],
+    items: ["React.js", "Next.js", "TypeScript"],
+  },
+  {
+    category: "Mobile",
+    items: ["React Native", "Expo"],
   },
   {
     category: "Styling",
-    items: ["Tailwind CSS", "CSS"],
+    items: ["Tailwind CSS", "Sass", "CSS"],
   },
   {
     category: "Backend",
-    items: ["Node.js", "Express"],
+    items: ["Node.js", "Express", "NestJS", "Hono"],
   },
   {
     category: "Database",
